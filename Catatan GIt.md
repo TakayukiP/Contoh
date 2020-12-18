@@ -24,3 +24,4 @@ cd git-start
 # clear console 
 clear
 
+nyobain pertama
